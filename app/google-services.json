@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770405891419",
+    "firebase_url": "https://pedulicovid19-c6f06.firebaseio.com",
+    "project_id": "pedulicovid19-c6f06",
+    "storage_bucket": "pedulicovid19-c6f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770405891419:android:f7be3f5763b104d1e46e7e",
+        "android_client_info": {
+          "package_name": "kelompok10pam.develops.pedulicovid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770405891419-bg6bsquhqvga8ekipsnfjjf2pbqnb2vj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kelompok10pam.develops.pedulicovid19",
+            "certificate_hash": "65ffba24efa691dfa1b2932526df9489ae1503cc"
+          }
+        },
+        {
+          "client_id": "770405891419-dn6civ66pe0s55hga62lu0vnr2ha5d4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHQwF0bs5v79YiTi7ggDvNe0z-sndG1ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770405891419-dn6civ66pe0s55hga62lu0vnr2ha5d4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

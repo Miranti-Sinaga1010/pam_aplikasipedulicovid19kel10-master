@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PeduliCovid19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="s1">Aplikasi Peduli COVID19</string>
+    <string name="s2"> Aplikasi ini bertujuan untuk mengecek dan menguji seberapa besar potensi
+        tertularnya masyarakat terhadap COVID19 yang mungkin saja berada disekitar masyarakat,
+        maupun benda yang bersentuhan langsung dengan masyarakat</string>
+    <string name="s3">Virus Corona atau severe acute respiratory syndrome coronavirus 2
+        (SARS-CoV-2) atau sering disebut dengan COVID-19 adalah virus yang sedang menyerang
+        Dunia saat ini yang dapat mengakibatkan kematian.Sehingga kami membangun sebuah aplikasi
+        yang dapat membantu dalam pencegahan COVID-19.</string>
+    <string name="tips">Tips Pencegahan COVID 19</string>
+    <string name="jdt1">1. Membawa bekal dari rumah atau membeli makanan di kantin yang bersih dan higienis.</string>
+    <string name="t1">Daya tahan tubuh yang kuat dapat membentengi tubuh dari virus atau dengan kata lain, virus hanya menyerang sistem imun yang rendah. Salah satu cara meningkatkan daya tahan tubuh adalah mengonsumsi makanan yang kaya akan vitamin dan mineral. Dengan demikian, karyawan Anda dianjurkan membawa bekal dari rumah atau jika tidak
+        sempat masak cukup membelinya di kantin (higiene sanitasi kantin). Hal ini dilakukan untuk meminimalisir kemungkinan makanan yang masuk ke dalam tubuh terbebas dari kontaminasi virus atau bakteri patogen yang dapat melemahkan daya tahan tubuh.</string>
+    <string name="jdt2">2. Cuci tangan dengan sabun setelah dari toilet.
+</string>
+    <string name="t2">Langkah efektif yang dapat dilakukan agar terhindar dari virus corona adalah rajin mencuci tangan menggunakan air mengalir dan sabun yang mengandung antiseptik selama 30 detik. Menurut WHO, cuci tangan dengan sabun secara benar dapat menangkal berbagai virus dan bakteri patogen. Tangan yang merupakan anggota butuh dapat menjangkau semua anggota tubuh lainnya sehingga sangat menentukan kesehatan tubuh.</string>
+    <string name="jdt3">3. Bersihkan tangan dengan hand sanitizer secara rutin.</string>
+    <string name="t3">Cuci tangan dengan sabun tentu tidak dapat dilakukan di semua tempat. Oleh karena itu, upaya yang dilakukan untuk memastikan tangan tetap bersih maka Anda perlu siap sedia hand sanitizer di dalam tas atau di kantor. Namun, kondisi tangan yang sangat berminyak dan kotor (setelah berkebun, makan atau berolahraga) tidak efektif jika dibersihkan dengan hand sanitizer, karena zat aktif yang terkandung di dalamnya tidak dapat bekerja secara optimal dalam menghilangkan virus dan bakteri patogen.</string>
+    <string name="jdt4">4. Gunakan masker bila batuk atau pilek.</string>
+    <string name="t4">Saat flu, daya tahan tubuh menurun sehingga risiko terserang virus atau penyakit lain lebih besar. Oleh karena itu, salah satu cara efektif meminimalkan risiko tersebut yaitu menggunakan masker. Bukan hanya untuk orang sakit flu, masker juga disarankan untuk orang sehat sebagai alat proteksi diri dari penyebaran virus seperti virus corona.</string>
+    <string name="jdt5">5. Tutup mulut menggunakan lengan atau tisu ketika bersin.</string>
+    <string name="t5">Cara efektif mencegah tersebarnya virus yaitu jika Anda bersin tutup mulut menggunakan lengan. Menurut dokter Cissy B. Kartasasmita, Ketua Indonesia Influenza Foundation (IIF) menyatakan kebanyakan orang saat bersin menutup mulut dengan telapak tangan, padahal hal ini salah. Sebab, telapak tangan tersebut selalu digunakan untuk bersalaman dengan orang lain dan menyentuhkan serta menggunakan peralatan kantor, sehingga sangat memungkinkan virusnya menyebar dan menginfeksi orang lain.</string>
+    <string name="jdt6">6. Jangan menyentuh wajah terutama mata, hidung dan mulut sebelum mencuci tangan.</string>
+    <string name="t6">Anggota tubuh yang dapat menjangkau area wajah khususnya mata, hidung dan mulut adalah tangan. Oleh karena itu, setelah menggunakan atau menyentuh peralatan kantor yang bersifat umum sangat dianjurkan untuk mencuci tangan dengan sabun atau hand sanitizer sebelum memegang wajah. Kenapa? Karena jalur masuk virus untuk menginfeksi tubuh terdapat di mata, hidung, dan mulut.</string>
+
+</resources>

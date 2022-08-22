@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mulai" type="id" />
+    <item name="delay" type="id" />
+    <item name="frame_content" type="id" />
+    <item name="save_cekresiko" type="id" />
+    <item name="recyler_view" type="id" />
+    <item name="cekresiko" type="id" />
+</resources>
